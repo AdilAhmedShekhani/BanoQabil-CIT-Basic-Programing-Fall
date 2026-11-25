@@ -3,6 +3,9 @@
 alert("Welcome To My Website");
 
 // Data Types
-// String
-// Numbers
-// Boolean
+// String => "Hello"
+
+// Numbers => 123
+
+// Boolean => true/false
+
