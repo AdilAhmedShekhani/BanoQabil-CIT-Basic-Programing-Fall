@@ -9,3 +9,8 @@ alert("Welcome To My Website");
 
 // Boolean => true/false
 
+// Create Variable 
+
+var veg = "Carrot";
+
+alert(veg);
