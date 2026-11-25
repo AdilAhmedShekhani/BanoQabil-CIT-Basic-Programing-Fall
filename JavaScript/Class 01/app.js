@@ -1,1 +1,8 @@
-alert("Welcome To My Website")
+
+// Alert Method
+alert("Welcome To My Website");
+
+// Data Types
+// String
+// Numbers
+// Boolean
